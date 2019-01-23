@@ -20,16 +20,16 @@
 
 # Agenda
 
-### Intro to Vue from a React developer’s perspective
+## Intro to Vue from a React developer’s perspective
 * Carolos Constantakatos
 
-### React and D3
+## React and D3
 * Corey Hoban
 
-### Why I :( in-line CSS
+## Why I :( in-line CSS
 * Joe Sutpin
 
-### Intro to Hooks
+## Intro to Hooks
 * Jose Vasquez
 
 
