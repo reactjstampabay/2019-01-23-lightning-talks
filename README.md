@@ -1,7 +1,7 @@
 ## Organizers
 
 #### Jordan Rhodes 🍑
-* [placeholder] @ Exzeo (Tampa, FL)
+* Software Engineer @ Exzeo (Tampa, FL)
 * [@jsrhodes15](https://twitter.com/jsrhodes15)
 
 #### Josh Burgess 🚀
