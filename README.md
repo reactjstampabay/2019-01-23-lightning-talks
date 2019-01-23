@@ -1,5 +1,3 @@
-2019 Kick-off featuring Lightning Talks
-
 ## Organizers
 
 #### Jordan Rhodes 🍑
