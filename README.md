@@ -26,7 +26,7 @@
 ## React and D3
 * Corey Hoban
 
-## Why I :( in-line CSS
+## [Why I :( in-line CSS](https://docs.google.com/presentation/d/1EqRSjciaBviSa0onl39KP61-mF1vIYt7IwU5UPHPk6o/edit?usp=sharing)
 * Joe Sutpin
 
 ## Intro to Hooks
