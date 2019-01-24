@@ -20,16 +20,16 @@
 
 # Agenda
 
-## [Intro to Vue from a React developer’s perspective](https://docs.google.com/presentation/d/17Sd9XzT4qw4I-nbo7qAcCqlzKktrJDuKqhipw7woliU/edit#slide=id.p)
+## [Intro to Vue from a React developer’s perspective](https://docs.google.com/presentation/d/17Sd9XzT4qw4I-nbo7qAcCqlzKktrJDuKqhipw7woliU)
 * Carolos Constantakatos
 
 ## React and D3
 * Corey Hoban
 
-## [Why I :( in-line CSS](https://docs.google.com/presentation/d/1EqRSjciaBviSa0onl39KP61-mF1vIYt7IwU5UPHPk6o/edit?usp=sharing)
+## [Why I :( in-line CSS](https://docs.google.com/presentation/d/1EqRSjciaBviSa0onl39KP61-mF1vIYt7IwU5UPHPk6o)
 * Joe Sutpin
 
-## Intro to Hooks
+## [Intro to Hooks](https://docs.google.com/presentation/d/17sC893me5Geu5AHxvGuxsc2PzponHw4KdRe7baXdrC8)
 * Jose Vasquez
 
 
